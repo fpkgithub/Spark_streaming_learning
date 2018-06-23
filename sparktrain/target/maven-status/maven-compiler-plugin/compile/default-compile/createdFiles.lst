@@ -1,0 +1,6 @@
+com\imooc\spark\kafkatest\KafkaProducer.class
+com\imooc\spark\kafkatest\KafkaClientApp.class
+Test.class
+com\imooc\spark\kafkatest\KafkaProperties.class
+com\imooc\spark\kafkatest\KafkaConsumer.class
+com\imooc\spark\project\utils\HBaseUtils.class
