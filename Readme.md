@@ -7,9 +7,9 @@
 
 
 
-1 sparktrain：数据的收集，分布，处理，存储（数据--->flume--->kafka--->streaming--->Hbase）
+1 Sacla项目-sparktrain：数据的收集，分布，处理，存储（数据--->flume--->kafka--->streaming--->Hbase）
 
-2 imooc_web：将Hbase的数据可视化显示，通过Echarts和阿里云的DataV展示(Hbase--->spring boot--->echarts/datav)
+2 Web项目-imooc_web：将Hbase的数据可视化显示，通过Echarts和阿里云的DataV展示(Hbase--->spring boot--->echarts/datav)
 
 3 note：对应的章节笔记
 
