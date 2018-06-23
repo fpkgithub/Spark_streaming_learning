@@ -1,6 +1,6 @@
 # 目录介绍
 
-课程：https://coding.imooc.com/class/153.html
+## Spark Streaming实时流处理项目实战
 
 >本课程从实时数据产生和流向的各个环节出发，通过集成主流的分布式日志收集框架Flume、分布式消息队列Kafka、分布式列式数据库HBase、
 及当前最火爆的Spark Streaming打造实时流处理项目实战，让你掌握实时处理的整套处理流程。
